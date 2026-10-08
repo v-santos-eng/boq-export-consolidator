@@ -1,0 +1,15 @@
+{
+  "csv": { "delimiter": ";", "encoding": "latin1" },
+  "document_types": { "5": "Sales Orders", "2": "Quotations" },
+  "module_prefix": "MOD-",
+  "columns": {
+    "Length (mm)": "LEN_MM",
+    "Width (mm)": "WIDTH_MM",
+    "Roller Pitch (mm)": "PITCH_MM",
+    "Drive Power (W)": "DRIVE_POWER_W",
+    "Voltage (V)": "DRIVE_VOLTAGE",
+    "Zone Length (mm)": "ZONE_LEN_MM",
+    "Control Type": "CTRL_TYPE",
+    "Side Guide": "SIDE_GUIDE"
+  }
+}
